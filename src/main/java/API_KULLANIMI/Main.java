@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class Main {
 
     private Scanner input = new Scanner(System.in);
-    private static String key = "apikey 51hefr4V6a6pb5gR83pyj2:5cgbbeaPJEfadkf0hLH5Uz";
+    private static String key = "Buraya API Tokeninizi Yerlestirin";
 
     public static void main(String[] args) {
         System.out.println("Nobetci eczaneler uygulamasina hos geldin.");
