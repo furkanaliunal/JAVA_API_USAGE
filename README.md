@@ -8,7 +8,6 @@ Bu ödevde katkıda bulunanlar:
 
 Uygulama nasıl çalıştırılır?
     
-    Nasıl çalıştırılır?
     - api.collectapi.com hesabı açılır
     - https://api.collectapi.com/health/dutyPharmacy URI li API a kayıt olunur
     - Profilden api key alınır
@@ -19,3 +18,8 @@ Uygulama nasıl çalıştırılır?
     - Class çalıştırılır
 ![Hatali](src/images/error.png)
 ![Basarili](src/images/output.png)
+
+
+Eklenecekler:
+    - API menüsü (uygulama birden fazla API kullanarak birden fazla iş yapacak)
+    - API sunucusu (her istekte bir sorgu hakkı kullanılması yerine bir sunucu bağlantısı kurulacak ve bu sunucu her dört saatte bir sorgu yapıp verilerini güncelleyecek)
